@@ -16,7 +16,8 @@ sudo systemctl restart xrdp
 # in case of blank screen :
 
 $ sudo vim /etc/xrdp/startwm.sh
-Add these lines just before the lines that test & execute Xsession as shown in the screenshot below.
+
+Add these lines just before the lines that test & execute Xsession
 
 unset DBUS_SESSION_BUS_ADDRESS
 unset XDG_RUNTIME_DIR
