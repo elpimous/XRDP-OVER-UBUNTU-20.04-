@@ -1,5 +1,7 @@
 # XRDP-OVER-UBUNTU-20.04-
 
+sudo apt install xfce4
+
 sudo apt install ubuntu-desktop
 
 sudo apt install xrdp
