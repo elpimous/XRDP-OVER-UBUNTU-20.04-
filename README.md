@@ -2,12 +2,13 @@
 
 ### for ubuntu18.04 :
 
-  sudo apt-get install xorg
+    sudo apt-get install xorg
 
-  sudo apt-get install xserver-xorg-core
+    sudo apt-get install xserver-xorg-core
 
-  sudo apt-get install xorgxrdp
+    sudo apt-get install xorgxrdp
   
+----
 
 sudo apt install xfce4
 
