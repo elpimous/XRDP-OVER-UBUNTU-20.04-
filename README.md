@@ -1,5 +1,11 @@
 # XRDP-OVER-UBUNTU-20.04-
 
+sudo apt-get install xorg
+
+sudo apt-get install xserver-xorg-core
+
+sudo apt-get install xorgxrdp
+
 sudo apt install xfce4
 
 sudo apt install ubuntu-desktop
